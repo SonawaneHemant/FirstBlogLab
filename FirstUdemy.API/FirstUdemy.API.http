@@ -1,0 +1,6 @@
+@FirstUdemy.API_HostAddress = http://localhost:5100
+
+GET {{FirstUdemy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
